@@ -1,0 +1,1 @@
+ ausência experimental de quarks livres e sua aparente incompatibilidade com o princípio de exclusão de Pauli.

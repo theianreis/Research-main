@@ -1,0 +1,4 @@
+## Forte
+## Fraca
+## Eletromagnética
+## Gravitacional

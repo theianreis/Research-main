@@ -1,0 +1,2 @@
+- Conjunção de Carga 
+- Conjunção de Carga e Paridade

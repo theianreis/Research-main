@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "886b36a45dea204f",
+    "type": "split",
+    "children": [
+      {
+        "id": "535112d068a78978",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "779eb76d45aef51d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4330494cd8b8ea5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d672014f0f44848f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b827feceb2f71bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "8cdfca7b7bfa8622",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "b45328a6d51add19",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313.5
+  },
+  "right": {
+    "id": "cf06ce18f7386837",
+    "type": "split",
+    "children": [
+      {
+        "id": "0caf560f75c6923d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2736f2fbb7e20956",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "2a09ae2803543b47",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "f049cf10af4da785",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "95be36f780ff93b2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "63e549409a9b0dc5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "6c73e7c1f47f0803",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "dc4cbffcadd6f2f6",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "3b827feceb2f71bc",
+  "lastOpenFiles": [
+    "figures/Pasted image 20260812102010.png",
+    "Excalidraw/Fluxograma.excalidraw.md",
+    "img",
+    "Sem título.md",
+    "Análise Conceitual/Física de Partículas/Fundamentos/Leptons.md",
+    "Análise Conceitual/Física de Partículas/Bariogenese e Leptogenese/assimetria bariônica.md",
+    "Análise Conceitual/Física de Partículas/Fundamentos/C e CP.md",
+    "Análise Conceitual/Física de Partículas/Bariogenese e Leptogenese/Bariogêneses.md",
+    "Análise Conceitual/Física de Partículas/Fundamentos/Modelo Padrão.md",
+    "Análise Conceitual/Física de Partículas/Bariogenese e Leptogenese",
+    "Notas/Quarks.md",
+    "Análise Conceitual/Física de Partículas/Fundamentos/Acoplamento(Constante de Acoplamento).md",
+    "figures/Pasted image 20260812102036.png",
+    "Análise Conceitual/Física de Partículas/Fundamentos/Forças Fundamentais.md",
+    "Análise Conceitual/Física de Partículas/Neutrinos/Neutrinos do Modelo Padrão.md",
+    "Análise Conceitual/Física de Partículas/Neutrinos/Neutrino Histórico.md",
+    "Técnicas de pesquisa/Seminário.md",
+    "Análise Conceitual/Física de Partículas/Fundamentos/Campo de Higgs.md",
+    "Análise Conceitual/Física de Partículas/Neutrinos/Neutrinos Majorana.md",
+    "figures/Pasted image 20260810153557.png",
+    "Análise Conceitual/Física de Partículas/Neutrinos/Neutrinos Estéreis.md",
+    "Organização Geral.md",
+    "Organização/Fluxograma/Digitalizado_20260722-1116.pdf",
+    "figures/Pasted image 20260810155223.png",
+    "figures",
+    "Excalidraw/Drawing 2026-08-10 15.11.50.excalidraw.md",
+    "Análise Conceitual/Física de Partículas/Fundamentos/Sem título.md",
+    "Análise Conceitual/Física de Partículas/Fundamentos/Eletrodinâmica Quântica.md",
+    "Análise Conceitual/Física de Partículas/Fundamentos/Cromodinâmica Quântica.md",
+    "Análise Conceitual/Física de Partículas/Fundamentos",
+    "Notas/A Revolução de Novembro e suas Consequências (1974–1983 e 1995).md",
+    "Notas/Bóson.md",
+    "Organização",
+    "Organização/Fluxograma",
+    "Técnicas de pesquisa/Tempo Verbal de Escrita.md",
+    "Análise Conceitual/Física de Partículas/1 - Partículas e MP/Mecanismo de Higgs.md",
+    "Análise Conceitual/Física de Partículas/Neutrinos",
+    "Análise Conceitual/Física de Partículas/1 - Partículas e MP",
+    "Excalidraw"
+  ]
+}
